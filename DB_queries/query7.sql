@@ -1,0 +1,2 @@
+﻿ALTER TABLE actor
+ADD COLUMN middle_name VARCHAR(45)
